@@ -19,7 +19,6 @@ start_btn.onclick = () => {
 
 // Si das clic en Salir
 exit_btn.onclick = () => {
-    console.log("asfsa")
     // Mostrar el botón principal
     start_btn.classList.remove("inactive");
     // Ocultar info
