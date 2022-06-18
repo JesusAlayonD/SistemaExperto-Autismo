@@ -109,7 +109,7 @@ next_btn.onclick = () => {
                     <div>Transtorno del espectro autista de nivel <b>MODERADO</b></div><br>
                     <div><b>Recomendaciones:</b></div><br>
                     <div>- Consultar lo más pronto posible con un especialista.</div>
-                    <div>- Intervencion Psicologica para tratar las emociones y sentimientos asociados.</div>
+                    <div>- Intervención Psicologica para tratar las emociones y sentimientos asociados.</div>
                     <div>- Sesiones de juego y actuaciones en las que el niño/adolescente participe activamente.</div>
                     <div>- Terapias conductuales.</div>
                     <div>- Los juegos educativos pueden mejorar el dia de los niños/adolescentes autistas.</div>
@@ -121,7 +121,7 @@ next_btn.onclick = () => {
                     <div>Transtorno del espectro autista de nivel <b>ALTO</b></div><br>
                     <div><b>Recomendaciones:</b></div><br>
                     <div>- Consultar lo más pronto posible con un especialista.</div>
-                    <div>- Intervencion Psicologica para tratar las emociones y sentimientos asociados.</div>
+                    <div>- Intervención Psicologica para tratar las emociones y sentimientos asociados.</div>
                     <div>- Sesiones de juego y actuaciones en las que el niño/adolescente participe activamente.</div>
                     <div>- Comunicacion verbal y contacto visual.</div>
                     <div>- Terapias del habla y lenguaje</div>
